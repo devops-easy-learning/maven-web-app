@@ -25,3 +25,4 @@
      command: kubectl apply -f k8s-deploy.yml
 
      #added line
+#pull command test
